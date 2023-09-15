@@ -2,7 +2,7 @@
 🖐Hi! I’m Nguyễn Thành Nhân from Vietnamese
 
 <a href="#" target="_blank">
-  <img src="svg/Thanhnhan003.svg" width="1200" alt="Thanhnhan003-official" />
+  <img src="svg/Thanhnhan003.svg" width="1000" alt="Thanhnhan003-official" />
 </a>
 
 ## 🌐Socials
