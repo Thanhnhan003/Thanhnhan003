@@ -1,5 +1,6 @@
 # 💫 About me:
-Hi!, I’m Nguyễn Thành Nhân.
+Hi!, I’m Nguyễn Thành Nhân
+
 Nice to meet you!
 
 ## 🌐Socials
