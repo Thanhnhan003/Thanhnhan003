@@ -5,6 +5,8 @@
   <img src="svg/Thanhnhan003.svg" width="1000" alt="Thanhnhan003-official" />
 </a>
 
+---
+
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100056078738635) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/th_nhzn003?igshid=NGVhN2U2NjQ0Yg==) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@www.tiktok.com/@nhantapsu203) 
 
@@ -17,7 +19,13 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Thanhnhan003&icon=0&color=0)](https://visitcount.itsvg.in)
+<br>
+<h2 align="center">📑 My Favorites Quote 📑</h2>
+<br>
+<a href="#" target="_blank">
+  <img src="svg/Thanhnhan003-quotes.svg" width="846" height="150" alt="Thanhnhan003-official" />
+</a>
+
 
   ## 💰You can help me by Donating
   
