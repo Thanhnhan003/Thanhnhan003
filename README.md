@@ -24,7 +24,7 @@
 [![](https://visitcount.itsvg.in/api?id=Thanhnhan003&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰You can help me by Donating
-  [![]([https://visitcount.itsvg.in/api?id=ngocmy03&icon=0&color=0)](https://visitcount.itsvg.in](https://play-lh.googleusercontent.com/M9OvPTmGRRtq40m0WtVRC7v5Rc4bNxj_IliowQSOm-oi2bLmnxsQcgqO-6ajUIQ2f-U)https://play-lh.googleusercontent.com/M9OvPTmGRRtq40m0WtVRC7v5Rc4bNxj_IliowQSOm-oi2bLmnxsQcgqO-6ajUIQ2f-U)
+ <img src="[https://i.pinimg.com/564x/6f/12/fe/6f12fe33bcca4ee537155cf39c0bc73f.jpg](https://play-lh.googleusercontent.com/M9OvPTmGRRtq40m0WtVRC7v5Rc4bNxj_IliowQSOm-oi2bLmnxsQcgqO-6ajUIQ2f-U)" style="width:70px;border: 1px solid rgba(255, 0, 0, .5);border-radius:50%"/>
   0966882645
   
   Nguyễn Thành Nhân 
