@@ -29,8 +29,8 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 
-<a align="center" href="#" target="_blank">
-  <img src="svg/Thanhnhan003-quotes.svg" width="846" height="150" alt="Thanhnhan003-official" />
+<a href="#" target="_blank">
+  <img src="svg/Thanhnhan003-quotes.svg" align="center" width="846" height="150" alt="Thanhnhan003-official" />
 </a>
 
 
