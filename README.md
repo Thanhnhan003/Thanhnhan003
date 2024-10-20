@@ -32,6 +32,6 @@
 
 
   <a href="#" target="_blank">
-  <img src="svg/Thanhnhan003-quotes.svg" align="center" width="846" height="150" alt="Thanhnhan003-official" /> 
+  <img src="https://github.com/Thanhnhan003/Thanhnhan003/blob/main/svg/Thanhnhan003-quotes.svg" align="center" width="846" height="150" alt="Thanhnhan003-official" /> 
 </a>
 
